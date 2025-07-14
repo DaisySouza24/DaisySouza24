@@ -4,7 +4,7 @@
 
 🎯 Em transição de carreira | De RH, DP e Jurídico para a área de Dados
 
-Me chamo Daisy Souza, sou formada em Recursos Humanos, com sólida experiência em rotinas de RH, Departamento Pessoal e Jurídico. Atualmente, estou em transição para a área de Dados, unindo minha bagagem profissional à tecnologia para gerar insights estratégicos e apoiar a tomada de decisões com base em dados.
+Me chamo Daisy Souza, sou formada em Administração de empresas, com sólida experiência em rotinas de RH, Departamento Pessoal e Jurídico. Atualmente, estou em transição para a área de Dados, unindo minha bagagem profissional à tecnologia para gerar insights estratégicos e apoiar a tomada de decisões com base em dados.
 
 📚 Formação Tecnológica em Banco de Dados e Big Data  
 📊 Conhecimentos em Power BI, Python e SQL  
